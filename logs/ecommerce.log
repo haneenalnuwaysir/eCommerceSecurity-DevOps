@@ -1,6 +1,12 @@
-2024-06-24 15:31:57,805 INFO c.e.d.SareetaApplication [main] Starting SareetaApplication on halnuwaysir.local with PID 18734 (/Users/h.alnuwaysir/Desktop/eCommerceSecurity-DevOps/starter_code/target/classes started by h.alnuwaysir in /Users/h.alnuwaysir/Desktop/eCommerceSecurity-DevOps)
-2024-06-24 15:31:57,813 DEBUG c.e.d.SareetaApplication [main] Running with Spring Boot v2.3.2.RELEASE, Spring v5.2.8.RELEASE
-2024-06-24 15:31:57,813 INFO c.e.d.SareetaApplication [main] No active profile set, falling back to default profiles: default
-2024-06-24 15:32:01,482 DEBUG c.e.d.S.JWTAuthorizationFilter [main] Filter 'JWTAuthorizationFilter' configured for use
-2024-06-24 15:32:02,034 INFO c.e.d.SareetaApplication [main] Started SareetaApplication in 4.591 seconds (JVM running for 10.665)
-2024-06-24 15:32:02,036 INFO c.e.d.SareetaApplication [main] Ecommerce Application Started
+2024-06-24 20:22:50,386 INFO c.e.d.SareetaApplication [main] Starting SareetaApplication on Haneens-Air with PID 93896 (/Users/haneenalnuwaysir/Desktop/eCommerceSecurity-DevOps/starter_code/target/classes started by haneenalnuwaysir in /Users/haneenalnuwaysir/Desktop/eCommerceSecurity-DevOps)
+2024-06-24 20:22:50,390 DEBUG c.e.d.SareetaApplication [main] Running with Spring Boot v2.3.2.RELEASE, Spring v5.2.8.RELEASE
+2024-06-24 20:22:50,390 INFO c.e.d.SareetaApplication [main] No active profile set, falling back to default profiles: default
+2024-06-24 20:22:51,924 DEBUG c.e.d.S.JWTAuthorizationFilter [main] Filter 'JWTAuthorizationFilter' configured for use
+2024-06-24 20:22:52,180 INFO c.e.d.SareetaApplication [main] Started SareetaApplication in 1.946 seconds (JVM running for 2.309)
+2024-06-24 20:22:52,182 INFO c.e.d.SareetaApplication [main] Ecommerce Application Started
+2024-06-24 20:23:19,876 INFO c.e.d.SareetaApplication [main] Starting SareetaApplication on Haneens-Air with PID 93942 (/Users/haneenalnuwaysir/Desktop/eCommerceSecurity-DevOps/starter_code/target/classes started by haneenalnuwaysir in /Users/haneenalnuwaysir/Desktop/eCommerceSecurity-DevOps)
+2024-06-24 20:23:19,879 DEBUG c.e.d.SareetaApplication [main] Running with Spring Boot v2.3.2.RELEASE, Spring v5.2.8.RELEASE
+2024-06-24 20:23:19,880 INFO c.e.d.SareetaApplication [main] No active profile set, falling back to default profiles: default
+2024-06-24 20:23:21,381 DEBUG c.e.d.S.JWTAuthorizationFilter [main] Filter 'JWTAuthorizationFilter' configured for use
+2024-06-24 20:23:21,613 INFO c.e.d.SareetaApplication [main] Started SareetaApplication in 1.899 seconds (JVM running for 2.363)
+2024-06-24 20:23:21,614 INFO c.e.d.SareetaApplication [main] Ecommerce Application Started
