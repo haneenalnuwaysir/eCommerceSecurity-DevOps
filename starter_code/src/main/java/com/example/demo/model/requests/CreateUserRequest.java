@@ -7,6 +7,7 @@ public class CreateUserRequest {
 	@JsonProperty
 	private String username;
 
+	/** add password field to create the user **/
 	@JsonProperty
 	private String password;
 
