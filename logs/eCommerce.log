@@ -8,3 +8,38 @@
 2024-06-26 13:50:30,349 INFO c.e.d.c.UserController [http-nio-9099-exec-2] Success: User haneen, been created!
 2024-06-26 13:50:32,618 DEBUG c.e.d.S.JWTAuthenticationFilter [http-nio-9099-exec-3] Request is to process authentication
 2024-06-26 13:50:32,621 INFO c.e.d.S.JWTAuthenticationFilter [http-nio-9099-exec-3] User haneen try to get authentication!
+2024-06-26 13:50:51,030 INFO c.e.d.c.UserController [http-nio-9099-exec-4] Info: try to create user: haneen
+2024-06-26 13:50:51,036 ERROR c.e.d.c.UserController [http-nio-9099-exec-4] Exception: User was not created, because password is bigger than 7 characters or password does not match
+2024-06-26 13:50:55,785 INFO c.e.d.c.UserController [http-nio-9099-exec-6] Info: try to create user: haneen
+2024-06-26 13:50:55,787 ERROR c.e.d.c.UserController [http-nio-9099-exec-6] Exception: User was not created, because password is bigger than 7 characters or password does not match
+2024-06-26 13:51:02,323 INFO c.e.d.c.UserController [http-nio-9099-exec-8] Info: try to find user by name: haneen
+2024-06-26 13:51:02,337 INFO c.e.d.c.UserController [http-nio-9099-exec-8] Success: User: haneen found!
+2024-06-26 13:51:07,666 INFO c.e.d.c.OrderController [http-nio-9099-exec-10] Info: try to get order for user: haneen
+2024-06-26 13:51:07,667 INFO c.e.d.c.OrderController [http-nio-9099-exec-10] Success: The order of user: haneen found!
+2024-06-26 13:51:10,261 INFO c.e.d.c.OrderController [http-nio-9099-exec-1] Info: try to find user by name: admin
+2024-06-26 13:51:10,262 ERROR c.e.d.c.OrderController [http-nio-9099-exec-1] Exception: User admin, does not exist!
+2024-06-26 13:51:15,830 INFO c.e.d.c.OrderController [http-nio-9099-exec-4] Info: try to find user by name: haneen
+2024-06-26 13:51:15,848 INFO c.e.d.c.OrderController [http-nio-9099-exec-4] Success: OrderId: 1 has been created by user: haneen
+2024-06-26 13:51:17,583 INFO c.e.d.c.CartController [http-nio-9099-exec-5] Info: try to add item id: 2 to user: haneen
+2024-06-26 13:51:20,761 INFO c.e.d.c.OrderController [http-nio-9099-exec-6] Info: try to get order for user: haneen
+2024-06-26 13:51:20,761 INFO c.e.d.c.OrderController [http-nio-9099-exec-6] Success: The order of user: haneen found!
+2024-06-26 14:01:57,067 INFO c.e.d.c.UserController [http-nio-9099-exec-8] Info: try to create user: haneen1
+2024-06-26 14:01:57,190 INFO c.e.d.c.UserController [http-nio-9099-exec-8] Success: User haneen1, been created!
+2024-06-26 14:02:19,743 DEBUG c.e.d.S.JWTAuthenticationFilter [http-nio-9099-exec-10] Request is to process authentication
+2024-06-26 14:02:19,778 INFO c.e.d.S.JWTAuthenticationFilter [http-nio-9099-exec-10] User haneen try to get authentication!
+2024-06-26 14:02:33,905 INFO c.e.d.c.UserController [http-nio-9099-exec-1] Info: try to find user by name: haneen
+2024-06-26 14:02:33,909 INFO c.e.d.c.UserController [http-nio-9099-exec-1] Success: User: haneen found!
+2024-06-26 14:02:56,083 INFO c.e.d.c.OrderController [http-nio-9099-exec-3] Info: try to get order for user: haneen
+2024-06-26 14:02:56,083 INFO c.e.d.c.OrderController [http-nio-9099-exec-3] Success: The order of user: haneen found!
+2024-06-26 14:03:07,879 INFO c.e.d.c.OrderController [http-nio-9099-exec-4] Info: try to find user by name: admin
+2024-06-26 14:03:07,880 ERROR c.e.d.c.OrderController [http-nio-9099-exec-4] Exception: User admin, does not exist!
+2024-06-26 14:03:27,630 INFO c.e.d.c.OrderController [http-nio-9099-exec-6] Info: try to find user by name: haneen
+2024-06-26 14:03:27,644 INFO c.e.d.c.OrderController [http-nio-9099-exec-6] Success: OrderId: 2 has been created by user: haneen
+2024-06-26 14:03:46,146 INFO c.e.d.c.CartController [http-nio-9099-exec-7] Info: try to add item id: 2 to user: haneen
+2024-06-26 14:03:55,195 INFO c.e.d.c.CartController [http-nio-9099-exec-9] Info: try to add item id: 1 to user: haneen
+2024-06-26 15:14:42,824 INFO c.e.d.c.UserController [http-nio-9099-exec-10] Info: try to create user: haneen
+2024-06-26 15:14:42,874 ERROR c.e.d.c.UserController [http-nio-9099-exec-10] Exception: User was not created, because password is bigger than 7 characters or password does not match
+2024-06-26 15:22:17,023 INFO c.e.d.c.OrderController [http-nio-9099-exec-2] Info: try to find user by name: admin
+2024-06-26 15:22:17,024 ERROR c.e.d.c.OrderController [http-nio-9099-exec-2] Exception: User admin, does not exist!
+2024-06-26 15:22:40,083 INFO c.e.d.c.OrderController [http-nio-9099-exec-4] Info: try to find user by name: admin1
+2024-06-26 15:22:40,083 ERROR c.e.d.c.OrderController [http-nio-9099-exec-4] Exception: User admin1, does not exist!
