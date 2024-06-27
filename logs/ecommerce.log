@@ -1,3 +1,0 @@
-2024-06-25 16:33:40,260 INFO c.e.d.SareetaApplication [main] Starting SareetaApplication on halnuwaysir.local with PID 24128 (/Users/h.alnuwaysir/Desktop/eCommerceSecurity-DevOps/starter_code/target/classes started by h.alnuwaysir in /Users/h.alnuwaysir/Desktop/eCommerceSecurity-DevOps)
-2024-06-25 16:33:40,270 DEBUG c.e.d.SareetaApplication [main] Running with Spring Boot v2.3.2.RELEASE, Spring v5.2.8.RELEASE
-2024-06-25 16:33:40,271 INFO c.e.d.SareetaApplication [main] No active profile set, falling back to default profiles: default

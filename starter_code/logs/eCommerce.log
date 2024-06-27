@@ -1,0 +1,8 @@
+2024-06-26 13:58:51,421 INFO c.e.d.SareetaApplicationTests [main] Starting SareetaApplicationTests on Haneens-MacBook-Air.local with PID 67555 (started by haneenalnuwaysir in /Users/haneenalnuwaysir/Desktop/eCommerceSecurity-DevOps/starter_code)
+2024-06-26 13:58:51,427 DEBUG c.e.d.SareetaApplicationTests [main] Running with Spring Boot v2.3.2.RELEASE, Spring v5.2.8.RELEASE
+2024-06-26 13:58:51,428 INFO c.e.d.SareetaApplicationTests [main] No active profile set, falling back to default profiles: default
+2024-06-26 13:58:53,900 INFO c.e.d.SareetaApplicationTests [main] Started SareetaApplicationTests in 2.648 seconds (JVM running for 3.322)
+2024-06-26 13:59:15,860 INFO c.e.d.c.CartController [main] Info: try to add item id: 0 to user: test
+2024-06-26 13:59:15,864 ERROR c.e.d.c.CartController [main] Exception: User test, does not exist!
+2024-06-26 13:59:15,872 INFO c.e.d.c.CartController [main] Info: try to add item id: 0 to user: test
+2024-06-26 13:59:15,874 INFO c.e.d.c.CartController [main] Info: try to remove item id: 0 from user: test

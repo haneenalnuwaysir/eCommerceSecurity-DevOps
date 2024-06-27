@@ -1,0 +1,10 @@
+2024-06-26 13:49:50,214 INFO c.e.d.SareetaApplication [main] Starting SareetaApplication on Haneens-MacBook-Air.local with PID 66523 (/Users/haneenalnuwaysir/Desktop/eCommerceSecurity-DevOps/starter_code/target/classes started by haneenalnuwaysir in /Users/haneenalnuwaysir/Desktop/eCommerceSecurity-DevOps)
+2024-06-26 13:49:50,217 DEBUG c.e.d.SareetaApplication [main] Running with Spring Boot v2.3.2.RELEASE, Spring v5.2.8.RELEASE
+2024-06-26 13:49:50,217 INFO c.e.d.SareetaApplication [main] No active profile set, falling back to default profiles: default
+2024-06-26 13:49:51,522 DEBUG c.e.d.S.JWTAuthorizationFilter [main] Filter 'JWTAuthorizationFilter' configured for use
+2024-06-26 13:49:51,784 INFO c.e.d.SareetaApplication [main] Started SareetaApplication in 1.717 seconds (JVM running for 2.082)
+2024-06-26 13:49:51,785 INFO c.e.d.SareetaApplication [main] Ecommerce Application Started
+2024-06-26 13:50:30,231 INFO c.e.d.c.UserController [http-nio-9099-exec-2] Info: try to create user: haneen
+2024-06-26 13:50:30,349 INFO c.e.d.c.UserController [http-nio-9099-exec-2] Success: User haneen, been created!
+2024-06-26 13:50:32,618 DEBUG c.e.d.S.JWTAuthenticationFilter [http-nio-9099-exec-3] Request is to process authentication
+2024-06-26 13:50:32,621 INFO c.e.d.S.JWTAuthenticationFilter [http-nio-9099-exec-3] User haneen try to get authentication!
